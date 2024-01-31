@@ -1,0 +1,55 @@
+body {
+   background-color: #ffffff;  
+   background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
+
+.custom-border {
+    border-width: 3px;
+ }
+
+.main-button{
+ font-size: large;
+ font-weight: 500;
+}
+
+.custom-hr { 
+    margin-top: 10px;
+    margin-bottom: 20px; 
+    border: solid 2px #000000;
+    opacity: 1;
+    font-weight: bold; 
+   }
+   
+.footer-text {
+       font-weight: 500;
+    }
+
+.info-card{
+   width: '100%';
+   margin-bottom: 15px;
+   border: solid 2px;
+}
+
+.delete-checkbox{
+   width: 17px;
+   height: 17px;
+   margin-left: 10px;
+   margin-top: 10px;
+}
+
+.product-content{
+   text-align: center;
+}
+
+.info-card p {
+   margin: 5px; /* or padding: 0; */
+   font: large bold;
+ }
+
+Form Label{
+   font-weight: 500;
+}
+
+.product-desc{
+   color: blue;
+}
